@@ -1,0 +1,18 @@
+fanz.lib
+create page
+add name
+add age
+add dob
+add sex
+add language
+add nationality
+add friends
+search friends
+select friends
+give friend_request
+choose accept or deny
+accept=add
+deny=remove
+create friend_list
+show mutual_friends
+
